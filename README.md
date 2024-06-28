@@ -7482,7 +7482,7 @@ min: 821 max: 199969 all: 7454
 
 min: 8107 max: 100207 all: 839
 
-[2](#cl100k-char2) - [3](#cl100k-char3) - [4](#cl100k-char4) - [5](#cl100k-char5) - [6](#cl100k-char6) - 
+[2](#cl100k-char2) - [3](#cl100k-char3) - [4](#cl100k-char4) - [6](#cl100k-char6) - 
 
 + 8107 年
 + 9039 数
