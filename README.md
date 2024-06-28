@@ -2,6 +2,11 @@
 
 showcase kiTAISKIy tokens in tokenizer
 
+jump table:
+
+- o200k is here
+- [cl100k](#tokens-cl100k)
+
 ## tokens o200k
 
 all 7532, from 821 to 185118 inclusive
